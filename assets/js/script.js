@@ -37,3 +37,5 @@ const navigateTab = function () {
   lastTabCard = this;
 }
 addEventOnelem(tabCard, "click", navigateTab);
+
+
